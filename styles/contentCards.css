@@ -1,0 +1,12 @@
+
+    .content__cards{
+        display: grid;
+        grid-template-columns: calc(33% - 2em) calc(33% - 2em) calc(33% - 2em);
+        grid-gap: 2em;
+        grid-template-rows: auto;
+        grid-area: "content__cards";
+    }
+
+    .content__cards--children__image{
+        width: 100%;
+    }

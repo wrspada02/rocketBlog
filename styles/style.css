@@ -1,0 +1,17 @@
+
+    :root{
+        --backgroundFirstSection : #290742;
+        --RobotoFont : 'Roboto';
+        --poppinsFont : 'Poppins';
+        --backgroundInputHeader : #170027;
+        --backgroundButtonHeader : #9E6DC2;
+        --colorFont : #FFF;
+        --colorFontTitle : #9E6DC2;
+        --colorBorderBottom : #4FFF4B;
+        --backgroundContentPage : #FEFEFE;
+        --colorFontTitleContent : #290742;
+    }
+
+    .container{
+        padding: 0 3%;
+    }
